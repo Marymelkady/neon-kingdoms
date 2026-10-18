@@ -1,0 +1,7 @@
+{
+  "name": "neon-kingdoms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time country-guessing party game with arcade duels",
+  "scripts": { "start": "node server.js" }
+}
