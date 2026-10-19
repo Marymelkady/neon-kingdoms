@@ -1,6 +1,6 @@
 # Neon Kingdoms
 
-A room-code party game where players spot a planted bluff, identify a country, answer country trivia, and take their custom fighter into an arcade duel.
+A room-code party game where players spot a planted bluff, identify a country, answer country trivia, and take their custom fighter into an arcade duel. (Part of OPenAI showcase challenge - human idea & AI code :))
 
 ## Run it
 
